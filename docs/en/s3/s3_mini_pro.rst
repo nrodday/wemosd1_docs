@@ -75,4 +75,7 @@ Pin
 .. image:: ../_static/boards/s3_mini_pro_v1.0.0_5_16x9.png
    :target: ../_static/boards/s3_mini_pro_v1.0.0_5_16x9.png
 
+MicroPython Examples
+----------------------
 
+*  `Pixelsnake <https://github.com/CsErik2001/Lolin-S3-Mini-Pro/tree/main/pixelsnake>`_ (`@CsErik2001 <https://github.com/CsErik2001>`_)
